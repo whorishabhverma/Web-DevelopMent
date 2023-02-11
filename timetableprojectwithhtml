@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <table border cellpadding="16px">
+    <thead>
+        <th colspan="9">Time Table</th>
+        <tr>
+            <th>Day/Lec</th>
+            <th>i<br>9:00-9:30</th>
+            <th>ii<br>9:00-9:30</th>
+            <th>iii<br>9:00-9:30</th>
+            <th>Lunch</th>
+            <th>iv<br>9:00-9:30</th>
+            <th>v<br>9:00-9:30</th>
+            <th>vi<br>9:00-9:30</th>
+            <th>vii<br>9:00-9:30</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <th>Monday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <td rowspan="5">Break</td>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+             </tr>
+        <tr>
+        <th>Tuesday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        
+        </tr>
+        <tr>
+        <th>Wednesday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        </tr>
+        <tr>    
+        <th>Thrusday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        </tr>
+        <tr>
+        <th>Friday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        </tr>
+        <tr>
+        <th>Saturday</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th>Subject</th>
+        <th colspan="5">No Lecture</th>
+        
+        </tr>
+    </tbody>
+   </table> 
+</body>
+</html>
